@@ -1,6 +1,6 @@
 <a id="travis-badge" href="https://travis-ci.org/PAIR-code/deeplearnjs" alt="Build Status">
   <img src="https://travis-ci.org/PAIR-code/deeplearnjs.svg?branch=master" />
-</a>
+</a> 
 
 # Getting started
 
